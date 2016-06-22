@@ -1,0 +1,2 @@
+CHANGED,D:\Android\switchcustomview1\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\android\tools\fd\runtime\AppPatchesLoaderImpl.class
+CHANGED,D:\Android\switchcustomview1\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\itheima74\toggleview\ui\ToggleView$override.class
